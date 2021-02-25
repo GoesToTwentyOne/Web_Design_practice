@@ -1,0 +1,36 @@
+header{
+    background: lightblue;
+    padding: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 35;
+}
+nav{
+    padding: 40px;
+    background:pink; 
+    float:left;
+    padding: 40px;
+    height: 350px;
+    width: 60px;
+}
+nav ul{
+    list-style-type: none;
+    padding: 2px;
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+article{
+    background:pink ;
+    display: contents;
+    
+  
+    
+}
+footer{
+    background: orange;
+    text-align: center;
+    font-family: fantasy;
+    font-display: optional;
+    font-size: 30px; 
+}

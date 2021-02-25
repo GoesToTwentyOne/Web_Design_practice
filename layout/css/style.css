@@ -1,0 +1,40 @@
+header{
+    background: lightblue;
+    padding: 30px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 35px;
+    color:white;
+
+}
+nav{
+   float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background:orange ;
+  padding: 30px;
+}
+nav ul{
+    list-style-type: none;
+  padding: 0;
+    
+}
+article{
+   
+  padding: 25px;
+    height: auto;
+    width: auto;
+ 
+}
+section {
+    
+  content: "";
+  display: table;
+  clear: both;
+}
+footer{
+    background: black;
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
